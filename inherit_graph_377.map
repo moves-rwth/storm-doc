@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d3/d1e/classstorm_1_1modelchecker_1_1helper_1_1_model_checker_helper.html" title=" " alt="" coords="5,257,271,311"/>
+<area shape="rect" id="Node000001" href="$d4/d63/classstorm_1_1modelchecker_1_1helper_1_1_single_value_model_checker_helper.html" title=" " alt="" coords="319,66,609,150"/>
+<area shape="poly" id="edge332_Node000000_Node000001" title=" " alt="" coords="201,248,384,148,387,152,203,252"/>
+<area shape="rect" id="Node000003" href="$d4/d63/classstorm_1_1modelchecker_1_1helper_1_1_single_value_model_checker_helper.html" title=" " alt="" coords="331,242,597,326"/>
+<area shape="poly" id="edge334_Node000000_Node000003" title=" " alt="" coords="284,281,330,281,330,287,284,287"/>
+<area shape="rect" id="Node000012" href="$d4/d63/classstorm_1_1modelchecker_1_1helper_1_1_single_value_model_checker_helper.html" title="Helper for model checking queries where we are interested in (optimizing) a single value per state." alt="" coords="363,351,565,420"/>
+<area shape="poly" id="edge343_Node000000_Node000012" title=" " alt="" coords="241,313,363,351,362,356,239,318"/>
+<area shape="rect" id="Node000002" href="$df/d09/classstorm_1_1modelchecker_1_1helper_1_1_hybrid_infinite_horizon_helper.html" title="Helper class for model checking queries that depend on the long run behavior of the (nondeterministic..." alt="" coords="689,5,907,75"/>
+<area shape="poly" id="edge333_Node000001_Node000002" title=" " alt="" coords="622,73,689,59,690,65,623,78"/>
+<area shape="rect" id="Node000004" href="$d1/d3b/classstorm_1_1modelchecker_1_1helper_1_1_sparse_infinite_horizon_helper.html" title=" " alt="" coords="689,99,907,154"/>
+<area shape="poly" id="edge335_Node000003_Node000004" title=" " alt="" coords="535,232,593,196,656,164,689,152,691,157,658,169,596,201,538,236"/>
+<area shape="rect" id="Node000006" href="$d1/d3b/classstorm_1_1modelchecker_1_1helper_1_1_sparse_infinite_horizon_helper.html" title=" " alt="" coords="689,178,907,233"/>
+<area shape="poly" id="edge337_Node000003_Node000006" title=" " alt="" coords="610,247,688,228,689,234,611,252"/>
+<area shape="rect" id="Node000008" href="$d8/d43/classstorm_1_1modelchecker_1_1helper_1_1_sparse_deterministic_visiting_times_helper.html" title="Helper class for computing for each state the expected number of times to visit that state assuming a..." alt="" coords="673,257,923,311"/>
+<area shape="poly" id="edge339_Node000003_Node000008" title=" " alt="" coords="611,281,673,281,673,287,611,287"/>
+<area shape="rect" id="Node000009" href="$d1/d3b/classstorm_1_1modelchecker_1_1helper_1_1_sparse_infinite_horizon_helper.html" title="Helper class for model checking queries that depend on the long run behavior of the (nondeterministic..." alt="" coords="657,335,939,390"/>
+<area shape="poly" id="edge340_Node000003_Node000009" title=" " alt="" coords="611,316,682,333,680,338,610,321"/>
+<area shape="rect" id="Node000010" href="$d9/da9/classstorm_1_1modelchecker_1_1helper_1_1_sparse_l_t_l_helper.html" title="Helper class for LTL model checking." alt="" coords="679,414,917,469"/>
+<area shape="poly" id="edge341_Node000003_Node000010" title=" " alt="" coords="603,331,611,337,627,353,635,370,644,386,659,401,680,412,677,417,656,405,639,389,631,372,623,356,608,341,600,336"/>
+<area shape="rect" id="Node000011" href="$de/daf/classstorm_1_1modelchecker_1_1helper_1_1lexicographic_1_1lexicographic_model_checker_helper.html" title=" " alt="" coords="672,493,924,577"/>
+<area shape="poly" id="edge342_Node000003_Node000011" title=" " alt="" coords="608,334,611,337,625,355,632,374,636,410,639,445,646,462,659,480,673,492,670,496,655,483,642,465,634,446,631,410,627,375,620,358,607,340,604,337"/>
+<area shape="rect" id="Node000005" href="$d1/d1e/classstorm_1_1modelchecker_1_1helper_1_1_sparse_deterministic_infinite_horizon_helper.html" title="Helper class for model checking queries that depend on the long run behavior of the (nondeterministic..." alt="" coords="987,99,1243,154"/>
+<area shape="poly" id="edge336_Node000004_Node000005" title=" " alt="" coords="921,124,986,124,986,129,921,129"/>
+<area shape="rect" id="Node000007" href="$d7/d24/classstorm_1_1modelchecker_1_1helper_1_1_sparse_nondeterministic_infinite_horizon_helper.html" title="Helper class for model checking queries that depend on the long run behavior of the (nondeterministic..." alt="" coords="987,178,1243,233"/>
+<area shape="poly" id="edge338_Node000006_Node000007" title=" " alt="" coords="921,203,986,203,986,208,921,208"/>
+</map>
